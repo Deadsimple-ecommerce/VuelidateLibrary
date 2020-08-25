@@ -1,5 +1,5 @@
 {
-  "name": "deadsimple/vuelidate",
+  "name": "deadsimple/vuelidatelibrary",
   "description": "A deadsimple module to use Vuelidate in your Modern Magento 2 Vue Projects ",
   "type": "magento2-module",
   "license": "MIT",
